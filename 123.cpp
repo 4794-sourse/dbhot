@@ -10,5 +10,6 @@ using namespace std;
 int main() {
     cout << endl;
     cout << "hello" << endl;
+    cout << "bug" << endl;
     return 0;
 }
