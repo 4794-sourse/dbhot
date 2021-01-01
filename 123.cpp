@@ -10,6 +10,6 @@ using namespace std;
 int main() {
     cout << endl;
     cout << "hello" << endl;
-    cout << "world" << endl;
+    cout << "world/商城" << endl;
     return 0;
 }
