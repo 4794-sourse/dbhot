@@ -11,5 +11,6 @@ int main() {
     cout << endl;
     cout << "hello" << endl;
     cout << "bug" << endl;
+    cout << "world/商城" << endl;
     return 0;
 }
